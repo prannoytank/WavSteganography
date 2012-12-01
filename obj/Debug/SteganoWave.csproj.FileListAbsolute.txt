@@ -1,0 +1,16 @@
+F:\New folder\bin\Debug\SteganoWave.exe
+F:\New folder\bin\Debug\SteganoWave.pdb
+F:\New folder\obj\Debug\ResolveAssemblyReference.cache
+F:\New folder\obj\Debug\SteganoWave.frmMain.resources
+F:\New folder\obj\Debug\GenerateResource.read.1.tlog
+F:\New folder\obj\Debug\GenerateResource.write.1.tlog
+F:\New folder\obj\Debug\SteganoWave.exe
+F:\New folder\obj\Debug\SteganoWave.pdb
+C:\Users\Ashirwad Tank\Desktop\ISS\bin\Debug\SteganoWave.exe
+C:\Users\Ashirwad Tank\Desktop\ISS\bin\Debug\SteganoWave.pdb
+C:\Users\Ashirwad Tank\Desktop\ISS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashirwad Tank\Desktop\ISS\obj\Debug\SteganoWave.frmMain.resources
+C:\Users\Ashirwad Tank\Desktop\ISS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ashirwad Tank\Desktop\ISS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ashirwad Tank\Desktop\ISS\obj\Debug\SteganoWave.exe
+C:\Users\Ashirwad Tank\Desktop\ISS\obj\Debug\SteganoWave.pdb
